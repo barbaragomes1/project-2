@@ -1,0 +1,243 @@
+body {
+    margin: 0px;
+    margin-left: 2%;
+    margin-right: 2%;
+
+    font-family: 'Source Sans Pro', sans-serif;
+
+
+}
+
+/* first section start  */
+
+span {
+    color: orangered;
+    font-size: 80px;
+}
+
+small {
+    font-size: 80px;
+    color: gray;
+
+}
+
+
+.first-section {
+    display: flex;
+}
+
+.first-section-div {
+    width: 50%;
+    padding: 5%;
+    margin-top: 80px;
+}
+
+.first-section-div img {
+    width: 80%;
+}
+
+.first-section-div p {
+    font-size: 34px;
+    font-family: Montserrat;
+    color: gray;
+
+}
+
+.order-food-btn {
+    padding: 25px 30px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(#dd4b12, #ef4b0b);
+    margin-top: 40px;
+}
+
+.order-food-btn a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+}
+
+/* first section end */
+
+
+
+/* secnd section start  */
+
+.secnd-section {
+    display: flex;
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    margin-top: 50px;
+
+}
+
+.secnd-section-div h2 {
+    width: 50%;
+    font-size: 60px;
+    margin-left: 400px;
+    color: gray;
+    margin-top: 100px;
+    font-weight: 500;
+}
+
+.secnd-section-div p {
+    font-size: 25px;
+    font-family: Montserrat;
+    width: 50%;
+    margin-left: 400px;
+}
+
+.secnd-section-div img {
+    width: 80%;
+    margin-left: 200px;
+}
+
+.contact-btn {
+    padding: 25px 30px;
+    border: none;
+    border-radius: 20px;
+    background-image: linear-gradient(#dd4b12, #ef4b0b);
+    margin-top: 40px;
+    margin-left: 400px;
+
+}
+
+.contact-btn a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #fff;
+    font-size: 20px;
+}
+
+
+/* secnd section end */
+
+/* 3rd section start */
+
+.Recipies h1 {
+    text-align: center;
+    font-size: 50px;
+    color: gray;
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+.Recipies p {
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat;
+    margin-bottom: 60px;
+}
+
+
+
+.my-recipies {
+    display: flex;
+
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.recipie-item1 {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 5px 7px 15px rgb(175, 175, 175);
+    border-radius: 30px;
+}
+
+.recipie-item1 img {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.recipie-item1 h2 {
+    text-align: left;
+    margin-left: 30px;
+    font-size: 40px;
+    color: gray;
+}
+
+.recipie-item1 p {
+    text-align: left;
+    font-size: 26px;
+    margin-left: 30px;
+    font-family: Montserrat;
+    line-height: 30px;
+
+}
+
+/* 3rd section end */
+
+.secial-link {
+
+    display: flex;
+
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 8%;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px 2px #9a9797;
+    margin-bottom: 8%;
+}
+
+
+.social-item {
+    width: 33.30%;
+    text-align: center;
+}
+
+.social-item h1 {
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 44px;
+    font-family: Montserrat;
+    color: gray;
+}
+
+.social-item p {
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    font-family: Montserrat;
+}
+
+/* Footer start */
+footer {
+    background-color: #0b0d17;
+}
+
+footer h1 {
+    padding-top: 100px;
+    padding-bottom: 35px;
+    text-align: center;
+    color: #5b5b5b;
+    font-weight: 700;
+    font-size: 50px;
+
+}
+
+
+footer h1 span {
+    color: orangered;
+    font-size: 50px;
+}
+
+footer p {
+    font-size: 26px;
+    font-family: Montserrat;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 100px;
+
+}
+
+/* footer end */
